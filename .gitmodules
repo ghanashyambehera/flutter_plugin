@@ -1,0 +1,6 @@
+[submodule "flutter_network_core"]
+	path = flutter_network_core
+	url = https://github.com/ghanashyambehera/flutter_network_core.git
+[submodule "flutter_mobile_diagnostics"]
+	path = flutter_mobile_diagnostics
+	url = https://github.com/ghanashyambehera/flutter_mobile_diagnostics.git
